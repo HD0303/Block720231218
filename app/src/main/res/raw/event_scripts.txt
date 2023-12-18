@@ -1,0 +1,54 @@
+# 강도 침입 이벤트
+event_invasion_robbery_pre
+누군가 문을 두드린다. 안에 사람이 있는 걸 어떻게 안거지? 그리고 이 와중에 밖에 사람이 돌아다닐 수 있는 건가? 도움이 필요한 사람일 수도 있지만 어쩌면 사람이 아닐지도 모르지. 문을 열어주는 게 좋을까?
+event_invasion_robbery_post
+문을 열어주자 보인 사람들은 무장한 강도였다. 우리는 강도에게 당했다.
+event_invasion_robbery_post_tmp
+현대 사회에서 모르는 사람이 문을 두드렸을 때 열어주는 경우는 거의 없어. 특히나 이런 상황에서는. 우린 문 밖의 존재를 알 수 없었고, 도전보다는 안전을 선택하기로 했다. 바뀐 건 없어.
+
+# 할머니 침입 이벤트
+event_invasion_grandma_pre
+우린 그저 가만히 멍하니 있을 뿐이다. 갑자기 누군가 문을 두드렸고, 그 소리에 모두가 긴장했다. 지금도 밖에 사람이 돌아다닌단 말이야? 무서웠지만 한편으론 반가웠다. 어쩌면 우리처럼, 생존자를 찾는 사람은 아닐까? 문을 열어줘볼까?
+event_invasion_grandma_post
+문을 열자 보인 사람은 키 작은 할머니였다. 조금 의아했지만, 우린 모두 할머니 입에서 나올 말을 기다리고 있었다. 그때, 할머니는 갑자기 급변해 우리를 공격해왔다. 왜소한 체격에서 저런 힘이 나오다니. 우리도 금방 정신을 차리고 할머니를 막았지만, 할머니는 우리의 것을 훔치고는 쏜살같이 달아났다.
+event_invasion_grandma_post_tmp
+
+
+# 소방관 침입 이벤트
+event_invasion_firefighter_pre
+
+event_invasion_firefighter_post
+
+event_invasion_firefighter_post_tmp
+
+# 노인 약탈 이벤트
+evnet_plunder_oldMan_pre
+
+evnet_plunder_oldMan_post
+
+evnet_plunder_oldMan_post_tmp
+
+
+# 1호관 동방 약탈 이벤트
+evnet_plunder_b1cr_pre
+
+evnet_plunder_b1cr_post
+
+evnet_plunder_b1cr_post_tmp
+
+
+# 요양원 약탈 이벤트
+evnet_plunder_nursingHome_pre
+
+evnet_plunder_nursingHome_post
+
+evnet_plunder_nursingHome_post_tmp
+
+
+# 연구실 약탈 이벤트
+evnet_plunder_Lab_pre
+
+evnet_plunder_Lab_post
+
+evnet_plunder_Lab_post_tmp
+
