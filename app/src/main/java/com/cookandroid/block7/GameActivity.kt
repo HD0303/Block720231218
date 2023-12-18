@@ -160,8 +160,6 @@ class GameActivity : BaseActivity() {
 
         pre_script.text = selectedEvent.getPreScript()
 
-
-
         val survival_note_page1 : View = findViewById(R.id.page1)
         val survival_note_page2 : View = findViewById(R.id.page2)
         val survival_note_page3 : View = findViewById(R.id.page3)
@@ -280,9 +278,36 @@ class GameActivity : BaseActivity() {
 
         val pre_event_o_button : ImageButton = findViewById(R.id.o_button)
         val pre_event_x_button : ImageButton = findViewById(R.id.x_button)
+        var item_choose_button : ImageButton = findViewById(R.id.item_choose_button)
 
         var event_choose = false
         var current_choose_value = false
+
+        var is_ox_event = false
+        if(is_ox_event){
+            pre_event_o_button.visibility = View.VISIBLE
+            pre_event_o_button.visibility = View.VISIBLE
+            item_choose_button.visibility = View.GONE
+        }
+        else {
+            pre_event_o_button.visibility = View.GONE
+            pre_event_x_button.visibility = View.GONE
+            item_choose_button.visibility = View.VISIBLE
+            finishbutton.visibility = View.VISIBLE
+        }
+
+        item_choose_button.setOnClickListener{
+            if(current_choose_value == false){
+                item_choose_button.alpha = 1f
+                current_choose_value = true
+            }
+            else{
+                item_choose_button.alpha = 0.5f
+                current_choose_value = false
+            }
+        }
+
+
 
         pre_event_o_button.setOnClickListener {
             event_choose = true

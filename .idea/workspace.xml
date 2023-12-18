@@ -10,26 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b56202e-c6cb-40ed-a11b-1e15dffd913e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/Event.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/Event.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/EventHandler.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/EventHandler.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/Event_invasion_firefighter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/Event_invasion_firefighter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/Event_invasion_grandma.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/Event_invasion_grandma.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/Event_invasion_robbery.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/Event_invasion_robbery.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/Evnet_plunder_oldMan.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/Evnet_plunder_oldMan.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/GameActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/cookandroid/block7/GameActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/kimbap_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/kimbap_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/next_button.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/next_button.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/previous_button.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/previous_button.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/water_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/water_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/window_note.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/window_note.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/game_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/game_activity.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/survival_note_page1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/survival_note_page1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/survival_note_page2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/survival_note_page2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/survival_note_page3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/survival_note_page3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/survival_note_page4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/survival_note_page4.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +20,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\clair\.android\avd\Pixel_7_Pro_API_31.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R54R2061Y0W]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
